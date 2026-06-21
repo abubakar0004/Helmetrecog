@@ -1,0 +1,12 @@
+streamlit
+streamlit-webrtc
+ultralytics
+paddleocr
+paddlepaddle
+numpy<2.0.0
+Pillow
+torch
+torchvision
+av
+opencv-python-headless
+opencv-contrib-python-headless
